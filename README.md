@@ -69,17 +69,6 @@ This repository contains a Python-based implementation and extension of the inte
 
 ---
 
-## Example Output
-
-| Statistic                                | Tariff     | No Tariff |
-|------------------------------------------|------------|-----------|
-| Fraction of persistent leadership        | 0.27       | 0.61      |
-| Mean leadership transitions              | 5.03       | 4.35      |
-| Mean GDP gap (leader / 2nd place)        | 1.35       | 1.21      |
-| Mean Export gap (leader / 2nd place)     | 1.40       | 1.31      |
-
----
-
 ## Visualization Preview
 
 Plots include:
