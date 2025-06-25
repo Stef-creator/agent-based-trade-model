@@ -40,7 +40,7 @@ This repository contains a Python-based implementation and extension of the inte
     pip install -r requirements.txt
 
 4. Launch Jupyter Notebook
-    jupyter notebook main_notebook.ipynb
+    jupyter notebook notebook.ipynb
 
 
 ---
