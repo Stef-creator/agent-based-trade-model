@@ -16,8 +16,7 @@ This repository contains a Python-based implementation and extension of the inte
 ## Contents
 
 - `sim_models.py`: All simulation model logic and analysis functions.
-- `main_notebook.ipynb`: Full simulation setup, results, visualizations, and interpretations.
-- `figures/`: Output plots and distributional summaries.
+- `notebook.ipynb`: Full simulation setup, results, visualizations, and interpretations.
 - `README.md`: This file.
 - `requirements.txt`: List of Python dependencies.
 
